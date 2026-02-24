@@ -1,0 +1,2 @@
+[NOT_ELIGIBLE] PM Awas Yojana: Does not meet internal criteria.
+[ACTION: eligibility check run for PM Awas Yojana]

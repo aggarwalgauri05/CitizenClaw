@@ -1,0 +1,2 @@
+[ELIGIBLE] MGNREGA: Meets basic internal criteria.
+[ACTION: eligibility check run for MGNREGA]

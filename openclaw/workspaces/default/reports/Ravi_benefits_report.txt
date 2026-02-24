@@ -1,0 +1,16 @@
+Citizen Profile: Ravi
+Age: 45
+Income: 80000
+Occupation: farmer
+State: Uttar Pradesh
+
+Qualifying Schemes:
+- PMJAY: Health insurance coverage for inpatient care. Portal: https://pmjay.gov.in
+- MGNREGA: Wage employment guarantee in rural areas. Portal: https://nrega.nic.in
+
+Not eligible (per internal rules): PM-KISAN: does not meet land and income criteria; PM Awas Yojana not applicable with current income/land status.
+
+Next Steps:
+1) Visit the above portals to check detailed eligibility.
+2) Gather required documents as applicable per scheme.
+3) Apply online or via the respectiveState/District offices.
