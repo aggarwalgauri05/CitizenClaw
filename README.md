@@ -1,4 +1,3 @@
-﻿# CitizenClaw
 # CitizenClaw
 
 An AI agent that helps Indian citizens navigate government schemes, eligibility checks, and benefit applications via Telegram.
@@ -30,7 +29,7 @@ Every response is prefixed with `[INTENT: ...]` so the decision is always visibl
 | Component | Technology |
 |-----------|-----------|
 | Agent Framework | OpenClaw |
-| LLM | OpenRouter (Qwen 2.5 7B) |
+| LLM | OpenRouter |
 | Channel | Telegram |
 | Web Fetching | Python `requests` (gov.in whitelist only) |
 | PDF Reading | PyMuPDF |
@@ -75,7 +74,7 @@ Select Telegram when prompted and paste your bot token.
     "openrouter": {
       "baseUrl": "https://openrouter.ai/api/v1",
       "apiKey": "YOUR_OPENROUTER_API_KEY",
-      "model": "qwen/qwen-2.5-7b-instruct"
+      "model": "auto"
     }
   },
   "agent": {
@@ -192,3 +191,4 @@ openclaw security audit
 | `gov-fetcher` failing | `pip install requests` |
 | PDF reader failing | `pip install pymupdf` |
 | Gateway crashes on start | `cat ~/.openclaw/openclaw.json \| python -m json.tool` |
+
